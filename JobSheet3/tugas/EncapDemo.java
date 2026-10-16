@@ -1,4 +1,4 @@
-package tugas;
+package Tugas;
 public class EncapDemo {
 
     private String name;
