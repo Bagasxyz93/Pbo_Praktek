@@ -6,4 +6,4 @@ Repositori ini berisi solusi untuk Ujian Tengah Semester (UTS) Praktikum Pemrogr
 
 Berikut adalah hasil tangkapan layar (screenshot) dari output program saat dijalankan:
 
-![Hasil Output](HasilOutput.png)
+![Hasil Output](img/HasilOutput.png)
